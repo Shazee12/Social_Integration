@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "377435321140",
+    "project_id": "firebase-socialinte"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377435321140:android:c9736693c3e7f9d6",
+        "android_client_info": {
+          "package_name": "com.example.shahzaib.social_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377435321140-7r2ro87dg3e31u4odd3lg0rr31rambfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shahzaib.social_integration",
+            "certificate_hash": "0C6DB3225703BF9A1B52D8E9838DAF15415312AF"
+          }
+        },
+        {
+          "client_id": "377435321140-gd2cb9e4huecqtp3lhvck1u7uomcmjk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbChgpckz-O6DT-nrzLx3k75gMndenDow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

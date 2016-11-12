@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Social_Integration</string>
+    <string name="Faceboob_app_id">558047131066623</string>
+
+    <string name="action_settings">settings</string>
+
+
+
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+
+    <string name="server_client_id">974588677057-q2hqt0jpmnv41qdslm8pclrrfsii8hsp.apps.googleusercontent.com</string>
+    <!-- Button labels -->
+
+</resources>
+
+
